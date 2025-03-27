@@ -1,0 +1,78 @@
+renamed folders:
+Data_subject_rights > data_subject_rights
+Data_types > data_types
+Legal_bases > legal_bases
+Processing_operations > processing_operations
+Processing_purposes > processing_purposes
+Roles > roles
+
+renamed files:
+Data_subject_rights/rights_data_subjects > data_subject_rights/data_subject_rights
+Data_types\Anonymized_data > data_types\anonymized_data
+Data_types\Encrypted_data > data_types\encrypted_data
+Data_types\Personal_data > data_types\personal_data
+Data_types\Pseudonymized_data > data_types\pseudonymized_data
+Legal_bases\legalBases > legal_bases\legal_bases
+Processing_operations\transfer_outside_EU > processing_operations\processing_outside_EU
+Processing_purposes\Marketing > processing_purposes\marketing
+Processing_purposes\Processing_purposes > processing_purposes\processing_purposes
+Processing_purposes\Provision_service > processing_purposes\service_provision
+Processing_purposes\Research > processing_purposes\research
+Processing_purposes\Security > processing_purposes\security
+Processing_purposes\Service_enhancement > processing_purposes\service_enhancement
+Processing_purposes\Statistics > processing_purposes\statistics
+Roles\Data_controller > roles\data_controller
+Roles\Data_protection_authority > roles\data_protection_authority
+Roles\Data_subject > roles\data_subject
+Roles\Minor > roles\minor
+Roles\Third_party > roles\third_party
+
+rescaled:
+Data_subject_rights\rights_data_subjects
+Data_subject_rights\right_access
+Data_subject_rights\right_complaint
+Data_subject_rights\right_erasure
+Data_subject_rights\right_information
+Data_subject_rights\right_object
+Data_subject_rights\right_portability
+Data_subject_rights\right_rectification
+Data_subject_rights\right_restrict
+Data_subject_rights\right_withdraw_consent
+Data_types\Anonymized_data
+Data_types\Encrypted_data
+Data_types\Personal_data
+Data_types\Pseudonymized_data
+Legal_bases\lb_consent
+Legal_bases\lb_contract
+Legal_bases\lb_legal_obligation
+Legal_bases\lb_legitimate_interest
+Legal_bases\lb_public_interest
+Legal_bases\lb_vital_interest
+Legal_bases\legalBases
+Processing_operations\automated_data_collection
+Processing_operations\automated_decision_making
+Processing_operations\copying
+Processing_operations\data_collection_from_third_parties
+Processing_operations\data_processing
+Processing_operations\direct_data_collection
+Processing_operations\processing_in_EU
+Processing_operations\profiling
+Processing_operations\transfer_outside_EU
+Processing_purposes\Marketing
+Processing_purposes\Processing_purposes
+Processing_purposes\Provision_service
+Processing_purposes\Research
+Processing_purposes\Security
+Processing_purposes\Service_enhancement
+Processing_purposes\Statistics
+Roles\Data_controller
+Roles\Data_protection_authority
+Roles\Data_subject
+Roles\Minor
+Roles\Third_party
+
+edited:
+Data_types\Anonymized_data
+
+removed:
+Legal_bases\lb_consent copy
