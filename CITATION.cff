@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this version of the DaPIS, please cite it as below."
+authors:
+- family-names: "Leicht"
+  given-names: "Jens"
+  orcid: "https://orcid.org/0009-0003-5612-5590"
+- family-names: "Lukasewycz"
+  given-names: "Julien"
+  orcid: "https://orcid.org/0000-0002-6850-4788"
+title: "Data Protection Icon Set (DaPIS) v3+"
+version: 1.0.0
+doi: 10.5281/zenodo.15094970
+date-released: 2025-03-27
+url: "https://zenodo.org/records/15094970"

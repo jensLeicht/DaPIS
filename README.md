@@ -13,12 +13,12 @@ The research that went into the development of that interface is published in th
 
 ## How to Cite
 
-`Leicht Jens and Lukasewycz Julien, Data Protection Icon Set (DaPIS) v3+, 2025`
+`Leicht Jens and Lukasewycz Julien, Data Protection Icon Set (DaPIS) v3+, Zenodo, 2025, doi: 10.5281/zenodo.15094970`
 
 ## Original Creators
 
 ### The Icon Set
-`Rossi Arianna and Palmirani Monica, Data Protection Icon Set (DaPIS) v.3.0. Zenodo, 2021. doi: 10.5281/zenodo.7182819`
+`Rossi Arianna and Palmirani Monica, Data Protection Icon Set (DaPIS) v.3.0. Zenodo, 2021, doi: 10.5281/zenodo.7182819`
 
 ### Research Related to the Icon Set
 `Rossi Arianna, (2019). "Legal Design for the General Data Protection Regulation. A Methodology for the Visualization and the Communication of Legal Concepts." Alma Mater Studiorum Università di Bologna. Dottorato di Ricerca in Law Science and Technology, 31 ciclo`

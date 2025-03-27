@@ -13,7 +13,7 @@ This work is released under the Creative Commons Attribution-ShareAlike 4.0 Inte
 
 ## How to Cite
 
-`Leicht Jens and Lukasewycz Julien, Data Protection Icon Set (DaPIS) v3+, 2025`
+`Leicht Jens and Lukasewycz Julien, Data Protection Icon Set (DaPIS) v3+, Zenodo, 2025, doi: 10.5281/zenodo.15094970`
 
 ## Original Creators
 
